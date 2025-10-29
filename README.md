@@ -1,2 +1,3 @@
 # my-project
-this is my project portfolio
+this is my git repository.
+Author-swadhin bhakat
